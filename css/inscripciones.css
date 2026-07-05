@@ -318,7 +318,7 @@ main {
 
 .prize__form {
     width: 100%;
-    max-width: 320px;
+    max-width: 450px;
     display: flex;
     flex-direction: column;
     gap: 0.6rem;
